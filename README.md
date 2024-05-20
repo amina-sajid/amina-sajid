@@ -21,4 +21,4 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
 ### Get in Touch
 
 - 📫 How to reach me: aminaf1997@gmail.com
-- 🌐 Visit my https://www.linkedin.com/in/amina-sajid-64a318218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqlED9t3ERoeUQ%2FTY4%2BWhKg%3D%3D (Your LinkedIn URL) profile
+- 🌐 Visit my https://www.linkedin.com/in/amina-sajid-64a318218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqlED9t3ERoeUQ%2FTY4%2BWhKg%3D%3D
