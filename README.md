@@ -5,9 +5,7 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
 ### About Me
 
 - 🎓 I’m currently a student at 42 Abu Dhabi, enhancing my coding skills.
-- 🌱 I’ve studied Python and completed several projects using the Django framework.
 - 💻 I love developing websites and applications.
-- 🤖 I'm thinking of studying AI and integrating it into my electrical engineering career.
 
 
 ### Skills
