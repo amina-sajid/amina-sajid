@@ -9,10 +9,18 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
 - 💻 I love developing websites and applications.
 - 🤖 I'm thinking of studying AI and integrating it into my electrical engineering career.
 
+
 ### Skills
 
-- **Programming Languages**: C, C++, Python
-- **Web Development**: HTML, CSS, Django
+- **Programming Languages**: 
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Web Development**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 ### Projects
 
