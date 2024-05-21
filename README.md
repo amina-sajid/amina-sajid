@@ -11,7 +11,7 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
 
 
 ### Skills
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django, flask, postman, sqlite)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Projects
 
