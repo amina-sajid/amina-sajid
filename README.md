@@ -12,7 +12,7 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
 
 ### Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=python,django,flask,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,django,flask,postman,sqlite)](https://skillicons.dev)
 
  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
@@ -20,6 +20,8 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
  [![My Skills](https://skillicons.dev/icons?i=docker,vscode,debian)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
+
 
 ### Projects
 
