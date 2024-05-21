@@ -22,8 +22,8 @@ I'm Amina Sajid, an Electrical Engineer with a passion for coding. Welcome to my
  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
 
-###Badges
-./badges/born2beroote.png
+### Badges
+./42-badges/born2beroote.png
 
 
 ### Projects
